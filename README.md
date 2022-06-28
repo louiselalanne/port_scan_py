@@ -12,3 +12,5 @@ Port scanning is just like a thief who wants to enter into a house by checking e
 - System or well-known ports: from 0 to 1023
 - User or registered ports: from 1024 to 49151
 - Dynamic or private ports: all > 49151
+
+OBS: When we run the above script, it will prompt for the hostname, you can provide any hostname like name of any website but be careful because port scanning can be seen as, or construed as, a crime. We should never execute a port scanner against any website or IP address without explicit, written permission from the owner of the server or computer that you are targeting. Port scanning is akin to going to someone’s house and checking their doors and windows. That is why it is advisable to use port scanner on localhost or your own website (if any).
